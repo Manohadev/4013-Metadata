@@ -1,7 +1,9 @@
-Flicked Tales là một không gian ấm cúng dành cho những độc giả yêu thích theo dõi câu chuyện, chia sẻ cảm nhận và khám phá cuốn sách yêu thích tiếp theo của mình.
+Perfect Amora là một ứng dụng lập kế hoạch mối quan hệ nhẹ nhàng được thiết kế để giúp các cặp đôi duy trì kết nối, quan tâm và đồng điệu — mà không gây áp lực hay những lời nhắc nhở khó xử.
 
-Thêm những cuốn sách bạn đang đọc hoặc dự định đọc, đánh giá chúng theo cách riêng của bạn và ghi lại cảm nhận của bạn. Cho dù đó là xếp hạng sao nhanh, một ghi chú ngắn hay một bài đánh giá chi tiết, Flicked Tales giúp bạn nhớ lại lý do tại sao một câu chuyện lại quan trọng với bạn. Theo thời gian, thư viện của bạn sẽ trở thành một hành trình đọc sách cá nhân mà bạn luôn có thể quay lại.
+Ứng dụng giúp bạn sắp xếp các kế hoạch chung, những khoảnh khắc quan trọng và những chi tiết thường ngày có ý nghĩa trong một mối quan hệ. Tạo kế hoạch chung, theo dõi những ngày quan trọng, quản lý danh sách việc cần làm chung và ghi chú sở thích cá nhân để không bỏ sót điều gì quan trọng. Cho dù đó là lên kế hoạch cho một buổi hẹn hò, tổ chức một sự kiện hay ghi nhớ những điều nhỏ nhặt mà người yêu của bạn yêu thích, tất cả đều nằm trong một không gian dễ sử dụng và yên tĩnh.
 
-Khám phá những cuốn sách mới cũng thú vị không kém. Duyệt qua các tựa sách, khám phá các đề xuất và xây dựng giá sách của riêng bạn, phát triển cùng với sở thích của bạn. Đã đọc xong một cuốn sách? Đánh dấu nó là đã đọc và theo dõi tiến trình của bạn hướng tới những mục tiêu đơn giản, đầy động lực, khiến việc đọc sách trở nên bổ ích hơn.
+Perfect Amora được xây dựng dựa trên sự cân bằng và giao tiếp. Mỗi phần đều đơn giản và có chủ đích, giúp cả hai đối tác cùng đóng góp như nhau. Bạn có thể cùng nhau lập kế hoạch, phân công trách nhiệm và thấy rõ tiến độ, mà không biến mối quan hệ của bạn thành một danh sách công việc.
 
-Với thiết kế gọn gàng và nhịp độ thư thái, Flicked Tales được tạo ra dành cho những độc giả muốn giảm bớt sự lộn xộn và kết nối nhiều hơn với những câu chuyện họ yêu thích. Đọc, suy ngẫm và giữ cho cuộc sống đọc sách của bạn được sắp xếp một cách tuyệt vời.
+Thiết kế ấm áp và hướng dẫn sử dụng dễ hiểu giúp trải nghiệm trở nên hỗ trợ hơn là trang trọng. Thay vì kiểm soát hay gây áp lực, Perfect Amora khuyến khích sự quan tâm, chú ý và nhất quán — những hành động nhỏ xây dựng lòng tin theo thời gian.
+
+Nó không phải về sự hoàn hảo. Nó là về việc hiện diện, quan tâm và cùng nhau phát triển, từng khoảnh khắc được chia sẻ một.
